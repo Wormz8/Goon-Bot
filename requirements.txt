@@ -1,0 +1,5 @@
+discord
+sqlite3
+apscheduler
+pytz
+flask
