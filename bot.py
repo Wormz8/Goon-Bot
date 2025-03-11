@@ -135,5 +135,5 @@ async def gooning(ctx):
             message += f"🔴 (Unknown User) - Gooning for {time_str}\n"
 
     await ctx.send(message)
-
-bot.run("BOT_TOKEN")
+    
+bot.run(os.getenv("BOT_TOKEN"))
