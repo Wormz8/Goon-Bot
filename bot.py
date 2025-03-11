@@ -136,4 +136,4 @@ async def gooning(ctx):
 
     await ctx.send(message)
 
-bot.run("MTM0ODc2NDY1Njk4MTkwMTQzNA.GudfFY.Z7jk2BdB1zd9WCIxp3qjYxI2WH3XnPwmHNt01k")
+bot.run("BOT_TOKEN")
